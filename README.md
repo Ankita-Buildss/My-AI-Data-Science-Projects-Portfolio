@@ -130,7 +130,7 @@ Performed EDA, 10-fold cross-validation, and evaluated using RMSE & R² (R² ≈
 </a>
 </td>
 <td>R, Rstudio, tidyverse, caret, GGally, car</td>
-<td>🔬</td>
+<td> </td>
 </tr>
 
 <!-- ================= EDA ================= -->
