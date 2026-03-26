@@ -115,13 +115,13 @@
 <tr>
 <td>7</td>
 <td><b>Graduate Admission Prediction</b></td>
-<td>Predicted admission using GRE, TOEFL, CGPA, research. EDA & CV</td>
+<td>Predicted admission chances using GRE, TOEFL, CGPA, and research experience. Performed EDA, 10-fold CV, evaluated using RMSE & R² (~0.80).</td>
 <td align="center">
 <a href="https://github.com/Ankita-Buildss/Graduate-Admission-Data">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
 </a>
 </td>
-<td>R, tidyverse, caret, GGally, car</td>
+<td>R, RStudio, tidyverse, caret, GGally, car</td>
 <td>✅</td>
 </tr>
 
