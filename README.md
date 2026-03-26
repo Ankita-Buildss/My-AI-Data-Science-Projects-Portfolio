@@ -1,4 +1,4 @@
-# 💻 My AI & Data Science Projects Portfolio
+# My AI & Data Science Projects Portfolio
 
 <table>
 <thead>
