@@ -27,7 +27,7 @@
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
 </a>
 </td>
-<td>LangChain, Gemini, FAISS, Streamlit</td>
+<td>LangChain, Google Gemini Pro, FAISS, Streamlit</td>
 <td>✅</td>
 </tr>
 
@@ -123,6 +123,23 @@
 </td>
 <td>R, tidyverse, caret, GGally, car</td>
 <td>✅</td>
+</tr>
+
+<tr>
+<td colspan="6"><b>⚡ Python Projects</b></td>
+</tr>
+
+<tr>
+<td>8</td>
+<td><b>Automation Scripts</b></td>
+<td>Automated data workflows and preprocessing</td>
+<td align="center">
+<a href="https://github.com/yourusername/project8">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
+</a>
+</td>
+<td>Python, Pandas</td>
+<td>Partial</td>
 </tr>
 
 </tbody>
