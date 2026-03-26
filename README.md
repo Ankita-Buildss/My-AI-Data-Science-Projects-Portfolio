@@ -117,6 +117,22 @@
 <td>✅</td>
 </tr>
 
+<tr>
+<td>9</td>
+<td>🎓 Graduate Admission Prediction</td>
+<td>
+Built a Linear Regression model to predict graduate admission chances using features like GRE, TOEFL, CGPA, and research experience. 
+Performed EDA, 10-fold cross-validation, and evaluated using RMSE & R² (R² ≈ 0.80), demonstrating strong predictive performance.
+</td>
+<td align="center">
+<a href="https://github.com/Ankita-Buildss/Graduate-Admission-Data">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
+</a>
+</td>
+<td>R, Rstudio, tidyverse, caret, GGally, car</td>
+<td>🔬</td>
+</tr>
+
 <!-- ================= EDA ================= -->
 <tr>
 <td colspan="6"><b>📊 Exploratory Data Analysis</b></td>
