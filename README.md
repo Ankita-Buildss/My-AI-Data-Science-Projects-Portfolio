@@ -4,8 +4,8 @@
 <thead>
 <tr>
 <th>S.No</th>
-<th>Project Name</th>
-<th>Description</th>
+<th>Use Case</th>
+<th>Highlights</th>
 <th>Repo</th>
 <th>Tech Stack</th>
 <th>End-to-End</th>
@@ -21,21 +21,21 @@
 
 <tr>
 <td>1</td>
-<td>📚 CleverDoc System  🤖</td>
-<td>Chat with multiple documents using LangChain, Gemini Pro & FAISS.</td>
+<td><b>CleverDoc System 🤖</b></td>
+<td>Chat with multiple documents.</td>
 <td align="center">
 <a href="https://github.com/yourusername/project1">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
 </a>
 </td>
-<td>LangChain, Gemini, FAISS, Streamlit</td>
+<td>LangChain, Google Gemini Pro, FAISS, Streamlit</td>
 <td>✅</td>
 </tr>
 
 <tr>
 <td>2</td>
-<td> Virtual Research Assistant</td>
-<td>Generates summary using LLMs.</td>
+<td><b>Virtual Research Assistant</b></td>
+<td>Generates summaries using LLMs.</td>
 <td align="center">
 <a href="https://github.com/yourusername/project2">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
@@ -52,8 +52,8 @@
 
 <tr>
 <td>3</td>
-<td>Financial Forecasting</td>
-<td>Analyzed 50+ years of macroeconomic data using ARIMA.</td>
+<td><b>Financial Forecasting</b></td>
+<td>Analyzed 50+ years of macroeconomic data.</td>
 <td align="center">
 <a href="https://github.com/yourusername/project3">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
@@ -70,7 +70,7 @@
 
 <tr>
 <td>4</td>
-<td>Sentiment Analysis</td>
+<td><b>Sentiment Analysis</b></td>
 <td>Built NLP models improving classification accuracy.</td>
 <td align="center">
 <a href="https://github.com/yourusername/project4">
@@ -88,7 +88,7 @@
 
 <tr>
 <td>5</td>
-<td>Image Classification</td>
+<td><b>Image Classification</b></td>
 <td>Implemented CNN-based classification model.</td>
 <td align="center">
 <a href="https://github.com/yourusername/project5">
@@ -106,7 +106,7 @@
 
 <tr>
 <td>6</td>
-<td>Transaction Prediction</td>
+<td><b>Transaction Prediction</b></td>
 <td>Built ML models for anomaly detection.</td>
 <td align="center">
 <a href="https://github.com/yourusername/project6">
@@ -118,56 +118,14 @@
 </tr>
 
 <tr>
-<td>9</td>
-<td>🎓 Graduate Admission Prediction</td>
-<td>
-Built a Linear Regression model to predict graduate admission chances using features like GRE, TOEFL, CGPA, and research experience. 
-Performed EDA, 10-fold cross-validation, and evaluated using RMSE & R² (R² ≈ 0.80), demonstrating strong predictive performance.
-</td>
+<td>7</td>
+<td><b>Graduate Admission Prediction</b></td>
+<td>Predicted admission chances using GRE, TOEFL, CGPA, and research experience. Performed EDA, 10-fold CV, evaluated using RMSE & R² (~0.80).</td>
 <td align="center">
 <a href="https://github.com/Ankita-Buildss/Graduate-Admission-Data">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
 </a>
 </td>
-<td>R, Rstudio, tidyverse, caret, GGally, car</td>
-<td> </td>
-</tr>
-
-<!-- ================= EDA ================= -->
-<tr>
-<td colspan="6"><b>📊 Exploratory Data Analysis</b></td>
-</tr>
-
-<tr>
-<td>7</td>
-<td>EDA on Transactions</td>
-<td>Performed analysis and built dashboards.</td>
-<td align="center">
-<a href="https://github.com/yourusername/project7">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
-</a>
-</td>
-<td>Pandas, NumPy, Power BI</td>
+<td>R, tidyverse, caret, GGally, car</td>
 <td>✅</td>
 </tr>
-
-<!-- ================= Python ================= -->
-<tr>
-<td colspan="6"><b>⚡ Python</b></td>
-</tr>
-
-<tr>
-<td>8</td>
-<td>Automation Scripts</td>
-<td>Automated data workflows and preprocessing.</td>
-<td align="center">
-<a href="https://github.com/yourusername/project8">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
-</a>
-</td>
-<td>Python, Pandas</td>
-<td>Partial</td>
-</tr>
-
-</tbody>
-</table>
