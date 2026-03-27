@@ -151,7 +151,7 @@
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
     </a>
   </td>
-  <td>Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn</td>
+  <td>Python, Pandas, NumPy, Matplotlib, Seaborn</td>
   <td>✅</td>
 </tr>
 
