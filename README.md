@@ -126,6 +126,23 @@
 </tr>
 
 <tr>
+<td colspan="6"><b>📊 Exploratory Data Analysis (EDA)</b></td>
+</tr>
+
+<tr>
+<td>9</td>
+<td><b>Red Wine Quality Analysis</b></td>
+<td>Explored dataset, cleaned data, analyzed acidity, alcohol & sugar to identify patterns affecting wine quality.</td>
+<td align="center">
+<a href="https://github.com/Ankita-Buildss/Red-Wine-EDA">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
+</a>
+</td>
+<td>Pandas, NumPy, Matplotlib, Seaborn</td>
+<td>✅</td>
+</tr>
+
+<tr>
 <td colspan="6"><b>⚡ Python Projects</b></td>
 </tr>
 
@@ -141,6 +158,7 @@
 <td>Python, Pandas</td>
 <td>Partial</td>
 </tr>
+
 
 </tbody>
 </table>
