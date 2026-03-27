@@ -134,7 +134,7 @@
 <td><b>Red Wine Quality Analysis</b></td>
 <td>Explored dataset, cleaned data, analyzed acidity, alcohol & sugar to identify patterns affecting wine quality.</td>
 <td align="center">
-<a href="https://github.com/Ankita-Buildss/Red-Wine-EDA">
+<a href="https://github.com/Ankita-Buildss/Red-Wine-Quality">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
 </a>
 </td>
