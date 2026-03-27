@@ -143,6 +143,19 @@
 </tr>
 
 <tr>
+  <td>10</td>
+  <td><b>Flight Price Prediction</b></td>
+  <td>Processed 10k+ flight records, extracted date/time features, handled missing values & stops, and one-hot encoded categorical features for ML modeling.</td>
+  <td align="center">
+    <a href="https://github.com/yourusername/flight-price-prediction">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
+    </a>
+  </td>
+  <td>Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn</td>
+  <td>✅</td>
+</tr>
+
+<tr>
 <td colspan="6"><b>⚡ Python Projects</b></td>
 </tr>
 
