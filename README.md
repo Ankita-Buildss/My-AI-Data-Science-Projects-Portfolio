@@ -139,7 +139,7 @@
 </a>
 </td>
 <td>Pandas, NumPy, Matplotlib, Seaborn</td>
-<td>✅</td>
+<td></td>
 </tr>
 
 <tr>
@@ -152,7 +152,7 @@
     </a>
   </td>
   <td>Python, Pandas, NumPy, Matplotlib, Seaborn</td>
-  <td>✅</td>
+  <td></td>
 </tr>
 
 <tr>
