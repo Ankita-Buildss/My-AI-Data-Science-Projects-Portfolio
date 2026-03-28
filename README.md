@@ -131,7 +131,7 @@
 
 <tr>
 <td>9</td>
-<td><b>Red Wine Quality Analysis</b></td>
+<td><b>🍷 Red Wine Quality Analysis</b></td>
 <td>Explored dataset, cleaned data, analyzed acidity, alcohol & sugar to identify patterns affecting wine quality.</td>
 <td align="center">
 <a href="https://github.com/Ankita-Buildss/Red-Wine-Quality">
@@ -144,7 +144,7 @@
 
 <tr>
   <td>10</td>
-  <td><b>Flight Price Prediction</b></td>
+  <td><b>✈️ Flight Price Prediction</b></td>
   <td>Processed 10k+ flight records, extracted date/time features, handled missing values & stops, and one-hot encoded categorical features for ML modeling.</td>
   <td align="center">
     <a href="https://github.com/Ankita-Buildss/Flight-Price-Data">
