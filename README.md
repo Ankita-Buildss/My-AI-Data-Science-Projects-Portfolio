@@ -109,7 +109,7 @@
 </a>
 </td>
 <td>Python, scikit-learn</td>
-<td>✅</td>
+<td></td>
 </tr>
 
 <tr>
@@ -122,7 +122,7 @@
 </a>
 </td>
 <td>R, RStudio, tidyverse, caret, GGally, car</td>
-<td>✅</td>
+<td></td>
 </tr>
 
 <tr>
