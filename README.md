@@ -160,8 +160,8 @@
   <td><b>🔥 Forest Fire Prediction</b></td>
   <td>Cleaned dataset, handled missing values, performed EDA, and prepared features for FWI prediction using correlation analysis.</td>
   <td align="center">
-    <a href="#">
-      <img src="https://github.com/Ankita-Buildss/Algerian-Forest-Fire-Dataset/tree/main"/>
+    <a href="https://github.com/Ankita-Buildss/Algerian-Forest-Fire-Dataset/tree/main"/">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
     </a>
   </td>
   <td>Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn</td>
