@@ -58,6 +58,18 @@
 </tr>
 
 <tr>
+<td>4</td>
+<td><b>Advanced RAG System 📄🤖</b></td>
+<td>Built scalable RAG pipeline with Milvus indexing, MMR reranking & performance evaluation</td>
+<td align="center">
+<a href="https://github.com/Ankita-Buildss/Agentic-AI-and-Gen-AI-Assignments/tree/main/Assignment%201-6-25">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
+</a>
+</td>
+<td>LangChain, Pinecone, Milvus (FLAT, IVF, HNSW), OpenAI, HuggingFace</td>
+<td>✅</td>
+</tr>
+<tr>
 <td colspan="6"><b>📈 Timeseries</b></td>
 </tr>
 
