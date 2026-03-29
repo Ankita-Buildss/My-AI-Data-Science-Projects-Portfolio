@@ -45,6 +45,19 @@
 </tr>
 
 <tr>
+<td>3</td>
+<td><b>🚀 KidSciBot</b></td>
+<td>Kid-friendly AI science chatbot using RAG + web search</td>
+<td align="center">
+<a href="https://github.com/Ankita-Buildss/Agentic-AI-and-Gen-AI-Assignments/tree/main/Assignment%204">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
+</a>
+</td>
+<td>LangGraph, Groq (DeepSeek), RAG, ChromaDB, HuggingFace, Tavily</td>
+<td>✅</td>
+</tr>
+
+<tr>
 <td colspan="6"><b>📈 Timeseries</b></td>
 </tr>
 
