@@ -54,7 +54,7 @@
 </a>
 </td>
 <td>LangGraph, Groq (DeepSeek), RAG, ChromaDB, HuggingFace, Tavily</td>
-<td>✅</td>
+<td></td>
 </tr>
 
 <tr>
