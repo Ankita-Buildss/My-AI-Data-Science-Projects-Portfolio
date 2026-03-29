@@ -70,6 +70,20 @@
 <td>✅</td>
 </tr>
 <tr>
+
+<tr>
+<td>5</td>
+<td><b>Ana Chatbot 🤖</b></td>
+<td>Multilingual, memory-enabled chatbot with streaming & custom personalities</td>
+<td align="center">
+<a href="https://github.com/Ankita-Buildss/Ana-smart-chatbot">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
+</a>
+</td>
+<td>LangGraph, LangChain, OpenAI, Python</td>
+<td>✅</td>
+</tr>
+  
 <td colspan="6"><b>📈 Timeseries</b></td>
 </tr>
 
