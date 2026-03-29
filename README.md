@@ -67,7 +67,7 @@
 </a>
 </td>
 <td>LangChain, Pinecone, Milvus (FLAT, IVF, HNSW), OpenAI, HuggingFace</td>
-<td>✅</td>
+<td></td>
 </tr>
 <tr>
 
@@ -81,7 +81,7 @@
 </a>
 </td>
 <td>LangGraph, LangChain, OpenAI, Python</td>
-<td>✅</td>
+<td></td>
 </tr>
   
 <td colspan="6"><b>📈 Timeseries</b></td>
