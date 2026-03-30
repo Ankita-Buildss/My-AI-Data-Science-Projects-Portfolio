@@ -116,6 +116,51 @@
 </tr>
 
 <tr>
+  <td>7</td>
+  <td><b>USA Topic Classifier 🇺🇸</b></td>
+  <td>
+    LLM-powered routing system that classifies queries and dynamically selects between RAG and general LLM responses using structured output parsing
+  </td>
+  <td align="center">
+    <a href="https://github.com/Ankita-Buildss/LangGraph_USA-Topic-Classifier">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
+    </a>
+  </td>
+  <td>Python, LangGraph, LangChain, Gemini Flash, ChromaDB, Pydantic</td>
+  <td><span class="badge bg-success">Yes</span></td>
+</tr>
+
+<tr>
+  <td>9</td>
+  <td><b>Analyzer GPT 📊</b></td>
+  <td>
+    AI-powered data analysis tool that processes CSV files to generate insights, visualizations, and answer natural language queries using LLMs
+  </td>
+  <td align="center">
+    <a href="https://github.com/Ankita-Buildss/Analyser-GPT-Digital-Data-Analyzer">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
+    </a>
+  </td>
+  <td>Python, AutoGen, OpenAI, Streamlit, Pandas</td>
+  <td><span class="badge bg-success">Yes</span></td>
+</tr>
+
+<tr>
+  <td>10</td>
+  <td><b>RAG Evaluation on AWS Bedrock ☁️</b></td>
+  <td>
+    Designed a workflow to evaluate RAG systems using LLM-based metrics like correctness, faithfulness, and safety with AWS Bedrock
+  </td>
+  <td align="center">
+    <a href="https://github.com/Ankita-Buildss/AWS-RAG-Evaluation" target="_blank">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
+    </a>
+  </td>
+  <td>Python, AWS Bedrock, S3, IAM, OpenSearch, Claude 3.5</td>
+  <td><span class="badge bg-success">Yes</span></td>
+</tr>
+
+<tr>
 <td colspan="6"><b>💬 NLP</b></td>
 </tr>
 
