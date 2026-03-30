@@ -83,6 +83,21 @@
 <td>LangGraph, LangChain, OpenAI, Python</td>
 <td></td>
 </tr>
+
+<tr>
+  <td>6</td>
+  <td><b>Agentic RAG System 🔍</b></td>
+  <td>
+    Intelligent retrieval system with agentic workflows, query rewriting, document grading, and fallback web search for improved accuracy
+  </td>
+  <td align="center">
+    <a href="https://github.com/Ankita-Buildss/Agentic-RAG-with-LanGraph">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
+    </a>
+  </td>
+  <td>Python, LangGraph, LangChain, ChromaDB, OpenAI/Groq</td>
+  <td><span class="badge bg-success">Yes</span></td>
+</tr>
   
 <td colspan="6"><b>📈 Timeseries</b></td>
 </tr>
