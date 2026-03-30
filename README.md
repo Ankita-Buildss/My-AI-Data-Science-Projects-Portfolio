@@ -179,24 +179,22 @@
 </tr>
 
 <tr>
-<td colspan="6"><b>🧠 Deep Learning</b></td>
+<td colspan="6"><b>🧠 🤖 Machine Learning & Deep Learning</b></td>
 </tr>
 
 <tr>
-<td>5</td>
-<td><b>Image Classification</b></td>
-<td>CNN-based image model</td>
-<td align="center">
-<a href="https://github.com/yourusername/project5">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
-</a>
-</td>
-<td>PyTorch, TensorFlow</td>
-<td>Partial</td>
-</tr>
-
-<tr>
-<td colspan="6"><b>🤖 Machine Learning</b></td>
+  <td>11</td>
+  <td><b>Object Detection Pipeline 🎯</b></td>
+  <td>
+    End-to-end object detection system with modular ML pipeline, AWS S3 integration, and deployment-ready architecture for real-time inference
+  </td>
+  <td align="center">
+    <a href="https://github.com/Ankita-Buildss/End-to-End-Object-Detection-Pipeline" target="_blank">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
+    </a>
+  </td>
+  <td>Python, Machine Learning, AWS S3, OpenCV, Flask/Streamlit</td>
+  <td><span class="badge bg-success">Yes</span></td>
 </tr>
 
 <tr>
