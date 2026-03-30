@@ -98,22 +98,6 @@
   <td>Python, LangGraph, LangChain, ChromaDB, OpenAI/Groq</td>
   <td><span class="badge bg-success">Yes</span></td>
 </tr>
-  
-<td colspan="6"><b>📈 Timeseries</b></td>
-</tr>
-
-<tr>
-<td>3</td>
-<td><b>Financial Forecasting</b></td>
-<td>50+ yrs macro data analysis</td>
-<td align="center">
-<a href="https://github.com/yourusername/project3">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
-</a>
-</td>
-<td>Python, R, ARIMA</td>
-<td>✅</td>
-</tr>
 
 <tr>
   <td>7</td>
@@ -158,6 +142,23 @@
   </td>
   <td>Python, AWS Bedrock, S3, IAM, OpenSearch, Claude 3.5</td>
   <td><span class="badge bg-success">Yes</span></td>
+</tr>
+
+  
+<td colspan="6"><b>📈 Timeseries</b></td>
+</tr>
+
+<tr>
+<td>3</td>
+<td><b>Financial Forecasting</b></td>
+<td>50+ yrs macro data analysis</td>
+<td align="center">
+<a href="https://github.com/yourusername/project3">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
+</a>
+</td>
+<td>Python, R, ARIMA</td>
+<td>✅</td>
 </tr>
 
 <tr>
