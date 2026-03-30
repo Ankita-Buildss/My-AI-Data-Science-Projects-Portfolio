@@ -96,7 +96,7 @@
     </a>
   </td>
   <td>Python, LangGraph, LangChain, ChromaDB, OpenAI/Groq</td>
-  <td><span class="badge bg-success">Yes</span></td>
+  <td></td>
 </tr>
 
 <tr>
@@ -111,7 +111,7 @@
     </a>
   </td>
   <td>Python, LangGraph, LangChain, Gemini Flash, ChromaDB, Pydantic</td>
-  <td><span class="badge bg-success">Yes</span></td>
+  <td></td>
 </tr>
 
 <tr>
