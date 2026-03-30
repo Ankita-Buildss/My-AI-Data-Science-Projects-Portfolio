@@ -183,6 +183,21 @@
 </tr>
 
 <tr>
+  <td>12</td>
+  <td><b>Phishing URL Detection 🔐</b></td>
+  <td>
+    End-to-end machine learning system to detect malicious URLs using feature engineering, model training, and deployment-ready pipeline
+  </td>
+  <td align="center">
+    <a href="https://github.com/Ankita-Buildss/End-to-End-Phishing-URL-Detection" target="_blank">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
+    </a>
+  </td>
+  <td>Python, Machine Learning, Scikit-learn, Pandas, Flask</td>
+  <td><span class="badge bg-success">Yes</span></td>
+</tr>
+
+<tr>
   <td>11</td>
   <td><b>Object Detection Pipeline 🎯</b></td>
   <td>
