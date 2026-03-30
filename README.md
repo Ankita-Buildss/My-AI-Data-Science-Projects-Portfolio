@@ -298,6 +298,22 @@
   <td>✅</td>
 </tr>
 
+  <tr>
+  <td>13</td>
+  <td><b>Python Practice 🐍</b></td>
+  <td>
+    Collection of Python problem-solving exercises covering fundamentals, data structures, and logic building for strong programming foundations
+  </td>
+  <td align="center">
+    <a href="https://github.com/Ankita-Buildss/Python" target="_blank">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
+    </a>
+  </td>
+  <td>Python, Data Structures, Problem Solving</td>
+  <td><span class="badge bg-secondary">Practice</span></td>
+
+</tr>
+
 
 </tbody>
 </table>
