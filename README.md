@@ -41,7 +41,7 @@
 </a>
 </td>
 <td>LangChain, OpenAI, HuggingFace</td>
-<td>Partial</td>
+<td>✅</td>
 </tr>
 
 <tr>
@@ -115,7 +115,7 @@
 </tr>
 
 <tr>
-  <td>9</td>
+  <td>8</td>
   <td><b>Analyzer GPT 📊</b></td>
   <td>
     AI-powered data analysis tool that processes CSV files to generate insights, visualizations, and answer natural language queries using LLMs
@@ -126,11 +126,11 @@
     </a>
   </td>
   <td>Python, AutoGen, OpenAI, Streamlit, Pandas</td>
-  <td><span class="badge bg-success">Yes</span></td>
+  <td>✅</td>
 </tr>
 
 <tr>
-  <td>10</td>
+  <td>9</td>
   <td><b>RAG Evaluation on AWS Bedrock ☁️</b></td>
   <td>
     Designed a workflow to evaluate RAG systems using LLM-based metrics like correctness, faithfulness, and safety with AWS Bedrock
@@ -141,7 +141,7 @@
     </a>
   </td>
   <td>Python, AWS Bedrock, S3, IAM, OpenSearch, Claude 3.5</td>
-  <td><span class="badge bg-success">Yes</span></td>
+  <td>✅</td>
 </tr>
 
   
@@ -149,7 +149,7 @@
 </tr>
 
 <tr>
-<td>3</td>
+<td>10</td>
 <td><b>Financial Forecasting</b></td>
 <td>50+ yrs macro data analysis</td>
 <td align="center">
@@ -166,7 +166,7 @@
 </tr>
 
 <tr>
-<td>4</td>
+<td>11</td>
 <td><b>Sentiment Analysis</b></td>
 <td>Improved classification accuracy</td>
 <td align="center">
@@ -175,7 +175,7 @@
 </a>
 </td>
 <td>Python, spaCy, scikit-learn</td>
-<td>Partial</td>
+<td></td>
 </tr>
 
 <tr>
@@ -194,11 +194,11 @@
     </a>
   </td>
   <td>Python, Machine Learning, Scikit-learn, Pandas, Flask</td>
-  <td><span class="badge bg-success">Yes</span></td>
+  <td>✅</td>
 </tr>
 
 <tr>
-  <td>14</td>
+  <td>13</td>
   <td><b>Wine Quality Prediction 🍷</b></td>
   <td>
     End-to-end ML pipeline with CI/CD deployment using Docker, AWS ECR, and EC2, enabling automated model training and scalable deployment
@@ -209,11 +209,11 @@
     </a>
   </td>
   <td>Python, Machine Learning, Docker, AWS (ECR, EC2), GitHub Actions</td>
-  <td><span class="badge bg-success">Yes</span></td>
+  <td>✅</td>
 </tr>
 
 <tr>
-  <td>11</td>
+  <td>14</td>
   <td><b>Object Detection Pipeline 🎯</b></td>
   <td>
     End-to-end object detection system with modular ML pipeline, AWS S3 integration, and deployment-ready architecture for real-time inference
@@ -224,7 +224,7 @@
     </a>
   </td>
   <td>Python, Machine Learning, AWS S3, OpenCV, Flask/Streamlit</td>
-  <td><span class="badge bg-success">Yes</span></td>
+  <td>✅</td>
 </tr>
 
 <tr>
@@ -239,11 +239,11 @@
     </a>
   </td>
   <td>Python, Deep Learning, ANN, TensorFlow/Keras, Pandas</td>
-  <td><span class="badge bg-success">Yes</span></td>
+  <td>✅</td>
 </tr>
 
 <tr>
-<td>7</td>
+<td>16</td>
 <td><b>Graduate Admission Prediction</b></td>
 <td>Predicted admission chances using GRE, TOEFL, CGPA, and research experience. Performed EDA, 10-fold CV, evaluated using RMSE & R² (~0.80).</td>
 <td align="center">
@@ -260,7 +260,7 @@
 </tr>
 
 <tr>
-<td>9</td>
+<td>17</td>
 <td><b>🍷 Red Wine Quality Analysis</b></td>
 <td>Explored dataset, cleaned data, analyzed acidity, alcohol & sugar to identify patterns affecting wine quality.</td>
 <td align="center">
@@ -273,7 +273,7 @@
 </tr>
 
 <tr>
-  <td>10</td>
+  <td>18</td>
   <td><b>✈️ Flight Price Prediction</b></td>
   <td>Processed 10k+ flight records, extracted date/time features, handled missing values & stops, and one-hot encoded categorical features for ML modeling.</td>
   <td align="center">
@@ -286,7 +286,7 @@
 </tr>
 
 <tr>
-  <td>11</td>
+  <td>19</td>
   <td><b>🔥 Forest Fire Prediction</b></td>
   <td>Cleaned dataset, handled missing values, performed EDA, and prepared features for FWI prediction using correlation analysis.</td>
   <td align="center">
@@ -303,7 +303,7 @@
 </tr>
 
 <tr>
-  <td>12</td>
+  <td>20</td>
   <td><b>🌐 Book Management API</b></td>
   <td>Built REST API with CRUD operations, SQLite DB integration, and search using Flask.</td>
   <td align="center">
@@ -316,7 +316,7 @@
 </tr>
 
   <tr>
-  <td>13</td>
+  <td>21</td>
   <td><b>Python Practice 🐍</b></td>
   <td>
     Collection of Python problem-solving exercises covering fundamentals, data structures, and logic building for strong programming foundations
