@@ -198,6 +198,21 @@
 </tr>
 
 <tr>
+  <td>14</td>
+  <td><b>Wine Quality Prediction 🍷</b></td>
+  <td>
+    End-to-end ML pipeline with CI/CD deployment using Docker, AWS ECR, and EC2, enabling automated model training and scalable deployment
+  </td>
+  <td align="center">
+    <a href="https://github.com/Ankita-Buildss/Wine-Quality-Prediction" target="_blank">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
+    </a>
+  </td>
+  <td>Python, Machine Learning, Docker, AWS (ECR, EC2), GitHub Actions</td>
+  <td><span class="badge bg-success">Yes</span></td>
+</tr>
+
+<tr>
   <td>11</td>
   <td><b>Object Detection Pipeline 🎯</b></td>
   <td>
@@ -213,16 +228,18 @@
 </tr>
 
 <tr>
-<td>6</td>
-<td><b>Transaction Prediction</b></td>
-<td>Anomaly detection</td>
-<td align="center">
-<a href="https://github.com/yourusername/project6">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
-</a>
-</td>
-<td>Python, scikit-learn</td>
-<td></td>
+  <td>15</td>
+  <td><b>Customer Churn Prediction 📉</b></td>
+  <td>
+    End-to-end deep learning model using ANN to predict customer churn with data preprocessing, model training, and deployment-ready pipeline
+  </td>
+  <td align="center">
+    <a href="https://github.com/Ankita-Buildss/End-to-End-Churn_Prediction" target="_blank">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>
+    </a>
+  </td>
+  <td>Python, Deep Learning, ANN, TensorFlow/Keras, Pandas</td>
+  <td><span class="badge bg-success">Yes</span></td>
 </tr>
 
 <tr>
